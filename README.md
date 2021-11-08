@@ -1,4 +1,12 @@
-# html-css-responsive
+## html-css-responsive
 
-[live preview](https://simple-price-grid-component.netlify.app)
 
+
+## Demo
+
+[Live Preview](https://simple-price-grid-component.netlify.app)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
